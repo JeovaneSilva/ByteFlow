@@ -1,6 +1,8 @@
 
 # :rocket: ByteFlow
 
+> Desenvolvido Por: Jeovane Lima
+
 A ByteFlow é um projeto de uma Landing Page de uma Agência que oferece serviços de desenvolvimento web, tráfego pago e designs UI/UX. Com o objetivo de levar os seus clientes a terem um sucesso online com ideias transformadoras e profissionais. 
 
 
