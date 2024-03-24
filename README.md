@@ -1,8 +1,7 @@
-# 	:rocket: ByteFlow
+# :rocket: ByteFlow
 
-<p>
 A ByteFlow é um projeto de uma Landing Page de uma Agência que oferece serviços de desenvolvimento web, tráfego pago e designs UI/UX. Com o objetivo de levar os seus clientes a terem um sucesso online com ideias transformadoras e profissionais. 
-</p>
+
 
 - [ ] Projeto em Andamento.
 * Disponível Em [ByteFlow](https://byteflow.netlify.app/).
@@ -21,10 +20,3 @@ A ByteFlow é um projeto de uma Landing Page de uma Agência que oferece serviç
 * HTML
 * CSS
 
-## 	:clipboard: Dependências Utilizadas
-```
-react: 18.2.0        
-react-dom: 18.2.0
-react-icons: 5.0.1
-styled-components: 6.1.8
-```
