@@ -1,8 +1,30 @@
-# React + Vite
+# 	:rocket: ByteFlow
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p>
+A ByteFlow é um projeto de uma Landing Page de uma Agência que oferece serviços de desenvolvimento web, tráfego pago e designs UI/UX. Com o objetivo de levar os seus clientes a terem um sucesso online com ideias transformadoras e profissionais. 
+</p>
 
-Currently, two official plugins are available:
+- [ ] Projeto em Andamento.
+* Disponível Em [ByteFlow](https://byteflow.netlify.app/).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## :hammer_and_wrench: Ferramentas utilizadas
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Styled](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+* React
+* Styled Components
+* JavaScript
+* HTML
+* CSS
+
+## 	:clipboard: Dependências Utilizadas
+```
+react: 18.2.0        
+react-dom: 18.2.0
+react-icons: 5.0.1
+styled-components: 6.1.8
+```
