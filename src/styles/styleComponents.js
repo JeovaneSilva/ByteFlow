@@ -1,8 +1,8 @@
 import styled from 'styled-components'
 
 export const Li = styled.li`
-
-    ${(props) => props.Licontato ? props.Licontato : 'list-style-type: none;'}
+    list-style-type: none;
+    ${({ licontato }) => licontato && licontato}
 
     a {
         ${(props) => props.acontato ? props.acontato : "text-decoration: none; color: #13204C;"} 
@@ -15,7 +15,7 @@ export const Li = styled.li`
 `
 
 export const ButtonSaberMais = styled.button`
-    background-color: ${(props) => props.backgroundColor ?  "#6CC9B8" : "#13204C"};
+    background-color: ${(props) => props.backgroundcolor ?  "#6CC9B8" : "#13204C"};
     width: 185px;
     height: 75.29px;
     border-radius: 40px; 
