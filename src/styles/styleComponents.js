@@ -225,6 +225,7 @@ export const FAQ = styled.div`
 p {
     width: 285px;
     font-family: "Poppins-Regular";
+    font-weight: 400;
     font-size: 20px;
     color: #13204C;
     padding-left: 26px;
@@ -240,7 +241,6 @@ svg{
         height: 61px;
         border-radius: 30px;
         margin:0 0 19px 0;
-    }
 
     p{
         width: 260px;
@@ -252,6 +252,7 @@ svg{
         font-size: 30px;
         padding-right: 20px;
     }
+}
 `
 
 export const FooterTop = styled.div`
